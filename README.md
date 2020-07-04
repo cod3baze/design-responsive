@@ -1,4 +1,4 @@
-# @media -> média query
+# @media query in css
 
 > É uma técnica de CSS introduzida no CSS3. usa a regra **@media** para incluir um bloco de propriedade CSS apenas se uma determinada condição for verdadeira.
 
